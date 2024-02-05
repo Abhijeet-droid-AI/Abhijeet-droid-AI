@@ -1,4 +1,3 @@
-[Personal Website](https://www.abhijeetdass.engineer)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Abhijeet%20&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
@@ -13,6 +12,8 @@
 
   <a href="https://linkedin.com/in/abhijeet-dass2002"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/ABHIJEETDASS4"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  [Personal Website](https://www.abhijeetdass.engineer)
+  
   ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
